@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Charada',
+    'Tenho rabo, mas não sou cão não tenho asas, mas sei voar,se me largarem, não subo,mas saio ao vento a brincar.Quem sou eu?',
+    'Pipa'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Charada',
+    'O que pode correr, mas nunca anda; tem leito, mas nunca dorme; nasce, mas não morre?',
+    'O rio'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Charada',
+    'O que a praia disse ao mar?',
+    'Para de onda'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Charada',
+    'Tem apenas duas letras, é redondo e tem um buraco no meio.',
+    ' CD'
 )
